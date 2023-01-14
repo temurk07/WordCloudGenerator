@@ -1,0 +1,54 @@
+At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.
+
+Whether you’re helping clients find new opportunities, developing new technology, or providing expert advice to internal partners, you will be doing work that matters in the world, in an environment built on teamwork, service, responsibility, diversity, and integrity.
+
+Job Title
+
+2023 Summer Student - Data Scientist (Halifax)
+Job Description
+
+What is the opportunity?
+
+RBC is a global leader in applying Artificial Intelligence (AI) in the banking sector in order to create value for our clients, with capabilities ranging from NLP-powered digital banking, boosting ensembles in fraud detection and AML, voice assistants in customer service, to algorithmic trading in capital markets. A failure to effectively prepare for and manage emerging model risk related to AI would subject RBC to financial, regulatory, and reputational risks and, as a result, RBC would not be able to provide its clients with the best quality service. Therefore, the AI validation team within RBC’s Enterprise Model Risk Management (RBC Group Risk Management) is tasked with overseeing, assessing, and managing the model risk that may arise from these AI capabilities.
+
+The AI validation team uses machine learning, statistical, and computational strategies to assess model risk. In doing so, RBC is able to identify model weaknesses early and enhance the reliability of production models across all lines of business.
+
+What will you do?
+
+Application: You will have the opportunity to work with a wide range of models (e.g. classification, regression, anomaly detection, natural language processing, computer vision, reinforcement learning, recommendation systems, dimensionality reduction) across an even wider variety of business functions, including Internal Audit, Cybersecurity, Fraud Management, Anti-Money Laundering, Insurance, Credit Risk, Technology Operations, Identity & Access Management and Human Resources.
+Validation: Your role is to challenge models and identify risks associated with their use – both conceptually and empirically. To that end, you will design and execute validation frameworks, exploring modelling considerations such as conceptual soundness, data processing, metric reproducibility & stability, benchmarking, robustness, uncertainty quantification, fairness, privacy, explainability, implementation controls and more. You will also have the freedom to explore ideas that interest you and build your own models and tools.
+Research & Development: You will read research papers (established work and state-of-the-art) to enhance how our team validates models and contribute to our knowledge pool. You are encouraged to apply what you’ve learned to real-world problems, develop reusable software packages, and share your insights with others.
+IT: You will collaborate with cross-functional stakeholders to establish and promote best-practices related to MLOps, tooling and IT infrastructure.
+Governance: You will work with model developers (data scientists, researchers, engineers) and business stakeholders to inventory applications of AI and machine learning at the bank, determine their materiality, and assess whether they require review.
+What do you need to succeed?
+
+Must-have
+
+Passionate about learning and staying up-to-date with research and technology
+Strong communication and interpersonal skills
+Progress towards a PhD or Master’s degree in Statistics, Computer Science, Applied Mathematics, Econometrics, Engineering, Quantitative Finance, or a related quantitative field
+Proficient programming skills in Python or a similar language; you should already be comfortable with writing research experiments and be willing to learn how to write clean code.
+Familiarity with popular machine learning frameworks and libraries
+Nice-to-have
+
+A risk-oriented mindset: You are curious about the “how” as well as the “why"
+Publication or prior research experience (applied or fundamental)
+Experience with version control systems
+Comfortable with command line tools
+What’s in it for you?
+
+As a team, we thrive on the challenge to be our best, encourage progressive thinking for continued growth, and collaborate with one another to deliver trusted advice to help our clients thrive and our communities prosper. We respect and care about all of our team members and support one another in reaching our fullest potential. We work together to make a difference in our communities and to achieve success that is mutual.
+
+This opportunity will provide you with:
+
+Leaders who support your development through coaching and managing opportunities
+Flexibility to work on projects that you are passionate about
+Ability to make a difference and lasting impact
+Work in a dynamic, collaborative, progressive, and high-performing team
+Opportunities to do challenging work and make a difference
+Opportunities to build close relationships
+Job Summary
+
+RBC is a global leader in applying Artificial Intelligence (AI) in the banking sector in order to create value for our clients, with capabilities ranging from NLP-powered digital banking, boosting ensembles in fraud detection and AML, voice assistants in customer service, to algorithmic trading in capital markets. A failure to effectively prepare for and manage emerging model risk related to AI would subject RBC to financial, regulatory, and reputational risks and, as a result, RBC would not be able to provide its clients with the best quality service. Therefore, the AI validation team within RBC’s Enterprise Model Risk Management (RBC Group Risk Management) is tasked with overseeing, assessing, and managing the model risk that may arise from these AI capabilities.
+
+The AI validation team uses machine learning, statistical, and computational strategies to assess model risk. In doing so, RBC is able to identify model weaknesses early and enhance the reliability of production models across all lines of business.
